@@ -50,3 +50,6 @@ document.querySelector("#save-tool").addEventListener('click', function(){
         link.click();
     });
 })
+document.querySelector("#eraser").addEventListener('click', function(){
+    CURRENT_COLOR = 'grey';
+})
