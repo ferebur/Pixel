@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Pixelify+Sans:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    min-height: 100vh;
+    font-family:"Poetsen One", sans-serif;
+    background: url("https://board.ttvchannel.com/uploads/db5640/original/3X/1/0/104f58e579aa8e475f95fee3bf90e56e45edf50d.png") no-repeat;
+}
+
+p {
+    font-family:"Pixelify Sans", sans-serif;
+    font-size: 3.5em;
+    color: white;
+    margin-left: 0.2em;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 10vh;
+    background-color: black;
+}
+header a {
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    padding: 0.5em;
+    border-radius: 0.3em;
+    margin-right: 0.5em;
+    font-family:"Poetsen One", sans-serif;
+}
+h1 {
+    font-weight: 100;
+}
+main a {
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+    padding: 0.5em;
+    border-radius: 0.3em;
+    margin-right: 0.5em;
+    font-family:"Poetsen One", sans-serif;
+    width: 11.5%;
+}
+main div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 30px 0 30px;
+    box-sizing: border-box;
+
+}
