@@ -7,7 +7,7 @@ body {
     width: 100vw;
     min-height: 100vh;
     font-family:"Poetsen One", sans-serif;
-    background: url("https://board.ttvchannel.com/uploads/db5640/original/3X/1/0/104f58e579aa8e475f95fee3bf90e56e45edf50d.png") no-repeat;
+    background: url("https://board.ttvchannel.com/uploads/db5640/original/3X/1/0/104f58e579aa8e475f95fee3bf90e56e45edf50d.png") no-repeat center/100%;
 }
 
 p {
